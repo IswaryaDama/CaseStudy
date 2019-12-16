@@ -1,0 +1,6 @@
+101,VegBiryani,210,10
+101,ChickenBiryani,280,10
+102,ChilliChicken,250,5
+102,SpringRolls,150,5
+103,PeriPeriChicken,280,30
+103,periperiNoodles,240,30
